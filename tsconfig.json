@@ -1,3 +1,21 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:06f8b46e6a370fb8175bd5c743abe6649449a2a3a6732ce7772dd7bf19c7c261
-size 360
+{
+	"extends": "./.svelte-kit/tsconfig.json",
+	"compilerOptions": {
+		"allowJs": true,
+		"checkJs": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"sourceMap": true,
+		"strict": true,
+		"paths": {
+			"$lib": [
+				"src/lib"
+			],
+			"$lib/*": [
+				"src/lib/*"
+			]
+		}
+	},
+}
