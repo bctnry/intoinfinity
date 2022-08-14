@@ -21,7 +21,8 @@
         <p><a href="http://web.archive.org/web/20200121131203/http://intoinfinity.org/documents/intoinfinity_Eye.tar.bz2">hi-resolution versions of ALL "EYE" artwork</a> - 843.6MB<br />(link from web.archive.org)</p>
          <p><a href="http://web.archive.org/web/20200121131203/http://intoinfinity.org/documents/intoinfinity_Ear.tar.bz2">hi-fidelity stereo versions of ALL "EAR" artwork</a> - 338.81MB<br />(original .aif/.wav file bundle from web.archive.org)</p>
          <p><a href="http://web.archive.org/web/20200121131203/http://intoinfinity.org/documents/into_infinity_web_exhibition_code.tar.bz2">original web exhibition Python source-code</a> - 0.06MB<br/>released as <a href="http://en.wikipedia.org/wiki/Free_software">free software</a> (<a href="http://www.gnu.org/licenses/gpl.txt">license info</a>)<br />by <a href="http://braydon.com">Braydon.com</a><br />(link from web.archive.org)</p>
-         <p>The rewritten web exhibition program for this mirror can be found at <a href="https://github.com/bctnry/intoinfinity">https://github.com/bctnry/intoinfinity</a></p>
+         <p>The rewritten web exhibition program for this mirror can be found at <a href="https://github.com/bctnry/intoinfinity">https://github.com/bctnry/intoinfinity</a><br />
+        DISCLAIMER: This is a personal project. I'm not related to Dublab or Creative Commons. </p>
     </div>
 
     <div style="text-align:center;width:480px;padding:10px;margin:auto;">
