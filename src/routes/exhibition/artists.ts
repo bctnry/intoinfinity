@@ -1,8 +1,8 @@
 import type { RequestHandler } from "@sveltejs/kit";
 import { ArtistIndex } from "$lib/database";
 
-export const GET: RequestHandler = (x) => {
-    let index = ArtistIndex();
+export const GET: RequestHandler = async (x) => {
+    let index = await ArtistIndex(x.url);
     let eyes: any[] = [];
     let ears: any[] = [];
     for (const k in index) {

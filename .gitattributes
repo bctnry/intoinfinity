@@ -6,3 +6,6 @@ static/documents/Ear/intoinfinity_Ear.tar.bz2 filter=lfs diff=lfs merge=lfs -tex
 *.bz2 filter=lfs diff=lfs merge=lfs -text
 *.flac filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpg !text !filter !merge !diff
+*.png !text !filter !merge !diff
+*.flac !text !filter !merge !diff

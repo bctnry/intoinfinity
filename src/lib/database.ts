@@ -19,25 +19,24 @@ const _EyeRoot = '/documents/Eye/';
 const _EyeSmallRoot = `${_EyeRoot}small/`;
 const _EarRoot = '/documents/Ear/';
 
-function _InitDB() {
+async function _InitDB(baseURL: URL) {
     console.log(`initdb`);
-    let indexSource = fs.readFileSync(path.join('static', 'documents', 'index'), {encoding: 'utf-8'});
-    _ArtistIndex = JSON.parse(indexSource);
+    _ArtistIndex = await (await fetch(`${baseURL.origin}/documents/index`)).json();
     _DocumentIndex = {};
     _EarDocumentList = [];
     _EyeDocumentList = [];
     for (const k in _ArtistIndex) {
         if (Object.prototype.hasOwnProperty.call(_ArtistIndex, k)) {
             const v = _ArtistIndex[k];
-            v.Eye.forEach((n) => { _DocumentIndex![n] = k; _EyeDocumentList?.push(n); });
-            v.Ear.forEach((n) => { _DocumentIndex![n] = k; _EarDocumentList?.push(n); });
+            v.Eye.forEach((n: any) => { _DocumentIndex![n] = k; _EyeDocumentList?.push(n); });
+            v.Ear.forEach((n: any) => { _DocumentIndex![n] = k; _EarDocumentList?.push(n); });
             _ArtistIndex[k].Name = k;
         }
     }
 }
 
-export function ArtistIndex() {
-    if (!_ArtistIndex) { _InitDB(); }
+export async function ArtistIndex(baseURL: URL) {
+    if (!_ArtistIndex) { await _InitDB(baseURL); }
     return _ArtistIndex;
 }
 
@@ -55,8 +54,8 @@ export type IDocument = {
     smallSizePath?: string,
 }
 
-export function GetAuthorBy(by: EDocumentType): IArtist[] {
-    if (!_ArtistIndex) { _InitDB(); }
+export async function GetAuthorBy(baseURL: URL, by: EDocumentType) {
+    if (!_ArtistIndex) { await _InitDB(baseURL); }
     let res: IArtist[] = [];
     for (const k in _ArtistIndex) {
         if (Object.prototype.hasOwnProperty.call(_ArtistIndex, k)) {
@@ -69,11 +68,9 @@ export function GetAuthorBy(by: EDocumentType): IArtist[] {
     return res;
 }
 
-export function GetRandomDocumentByAuthor(by: EDocumentType, author: string): IDocument {
-    if (!_ArtistIndex) { _InitDB(); }
-    let indexFileName = path.join('static', 'documents', `index.${author.replaceAll(':', '_').replaceAll('.', '_').replaceAll('?', '_')}`);
-    let indexFileSource = fs.readFileSync(indexFileName, {encoding: 'utf-8'});
-    let index = JSON.parse(indexFileSource);
+export async function GetRandomDocumentByAuthor(baseURL: URL, by: EDocumentType, author: string) {
+    if (!_ArtistIndex) { await _InitDB(baseURL); }
+    let index = await (await fetch(`${baseURL.origin}/documents/index.${author.replaceAll(':', '_').replaceAll('.', '_').replaceAll('?', '_')}`)).json();
     let fileNameList: string[] = [];
     for (const k in index) {
         if (Object.prototype.hasOwnProperty.call(index, k)) {
@@ -106,8 +103,8 @@ export function GetRandomDocumentByAuthor(by: EDocumentType, author: string): ID
     return res;
 }
 
-export function GetRandomDocument(by: EDocumentType): IDocument {
-    if (!_DocumentIndex) { _InitDB(); }
+export async function GetRandomDocument(baseURL: URL, by: EDocumentType) {
+    if (!_DocumentIndex) { await _InitDB(baseURL); }
     let subj = (by === EDocumentType.EAR? _EarDocumentList : _EyeDocumentList)!;
     let choice = subj[Math.floor(Math.random()*subj.length)];
     let fileName = `/documents/${by}/${choice}`;
@@ -116,6 +113,7 @@ export function GetRandomDocument(by: EDocumentType): IDocument {
         author: _DocumentIndex![choice],
         location: _ArtistIndex![_DocumentIndex![choice]].Location,
     };
+
     if (by === EDocumentType.EYE) {
         res.gallerySizePath = `${_EyeSmallRoot}${fileName.substring(_EyeRoot.length, fileName.length-4)}_600.png`;
         res.mediumSizePath = `${_EyeSmallRoot}${fileName.substring(_EyeRoot.length, fileName.length-4)}_370.png`;
