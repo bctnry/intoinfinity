@@ -1,0 +1,2303 @@
+{
+    "Pharaohs": {
+        "Location": "Los Angeles,CA",
+        "Url": "pharaohms.com/",
+        "Eye": [],
+        "Ear": [
+            "ear_pharaohs_3.flac"
+        ]
+    },
+    "dakim": {
+        "Location": "Berkeley, US",
+        "Url": "myspace.com/3dak",
+        "Eye": [],
+        "Ear": [
+            "ear_dakim_1.flac"
+        ]
+    },
+    "Daisuke Tanabe": {
+        "Location": "Chiba, Japan",
+        "Url": "myspace.com/shakutorimusi",
+        "Eye": [],
+        "Ear": [
+            "ear_daisuke_tanabe_1.flac",
+            "ear_daisuke_tanabe_2.flac"
+        ]
+    },
+    "De De Mouse": {
+        "Location": "Tokyo, Japan",
+        "Url": "dedemouse.com",
+        "Eye": [],
+        "Ear": [
+            "ear_de_de_mouse_1.flac"
+        ]
+    },
+    "RLP": {
+        "Location": "Tokyo, Japan",
+        "Url": "myspace.com/rlpsound",
+        "Eye": [],
+        "Ear": [
+            "ear_rlp_1.flac"
+        ]
+    },
+    "Dale Dreiling": {
+        "Location": "Los Angeles,CA",
+        "Url": "daledreiling.blogspot.com",
+        "Eye": [
+            "eye_dale_dreiling_1.png"
+        ],
+        "Ear": []
+    },
+    "Aligning Minds": {
+        "Location": "Washington D.C.",
+        "Url": "myspace.com/aligningminds",
+        "Eye": [],
+        "Ear": [
+            "ear_aligning_minds_1.flac",
+            "ear_aligning_minds_2.flac"
+        ]
+    },
+    "Conflict": {
+        "Location": "Tokyo, Japan",
+        "Url": "myspace.com/conflicttokyo",
+        "Eye": [],
+        "Ear": [
+            "ear_conflict_1.flac",
+            "ear_conflict_2.flac",
+            "ear_conflict_3.flac"
+        ]
+    },
+    "DJ KEN": {
+        "Location": "Sapporo, Japan",
+        "Url": "mcjack.com",
+        "Eye": [],
+        "Ear": [
+            "ear_dj_ken_1.flac"
+        ]
+    },
+    "Himuro Yoshiteru": {
+        "Location": "Tokyo, Japan",
+        "Url": "myspace.com/himuroyoshiteru",
+        "Eye": [],
+        "Ear": [
+            "ear_himuro_1.flac",
+            "ear_himuro_2.flac",
+            "ear_himuro_3.flac"
+        ]
+    },
+    "Naohito Uchiyama": {
+        "Location": "Sapporo, Japan",
+        "Url": "myspace.com/naohitouchiyama",
+        "Eye": [],
+        "Ear": [
+            "ear_naohito_1.flac",
+            "ear_naohito_2.flac"
+        ]
+    },
+    "ParCodaN": {
+        "Location": "Hadodate, Japan",
+        "Url": "myspace.com/parcodan",
+        "Eye": [],
+        "Ear": [
+            "ear_parcodan_1.flac"
+        ]
+    },
+    "qodibop": {
+        "Location": "Sapporo, Japan",
+        "Url": "qodibop.com",
+        "Eye": [],
+        "Ear": [
+            "ear_qodibop_1.flac"
+        ]
+    },
+    "REBEL MUSICAL": {
+        "Location": "Sapporo, Japan",
+        "Url": "rebelmusical.com",
+        "Eye": [],
+        "Ear": [
+            "ear_rebel_musical_1.flac",
+            "ear_rebel_musical_2.flac",
+            "ear_rebel_musical_3.flac",
+            "ear_rebel_musical_4.flac"
+        ]
+    },
+    "Robert Kroos": {
+        "Location": "Rotterdam, Holland",
+        "Url": "mentalyouth.org",
+        "Eye": [],
+        "Ear": [
+            "ear_robert_kroos_1.flac",
+            "ear_robert_kroos_2.flac"
+        ]
+    },
+    "The Great Mundane": {
+        "Location": "Portland, OR",
+        "Url": "myspace.com/thegreatmundane",
+        "Eye": [],
+        "Ear": [
+            "ear_the_great_mundane_2.flac",
+            "ear_the_great_mundane_3.flac"
+        ]
+    },
+    "Yoko K.": {
+        "Location": "Washington D.C.",
+        "Url": "myspace.com/aphrodizia",
+        "Eye": [],
+        "Ear": [
+            "ear_yoko_k_1.flac",
+            "ear_yoko_k_2.flac"
+        ]
+    },
+    "YUKARI (Limted Express (has gone?), ni-hao!)": {
+        "Location": "Tokyo, Japan",
+        "Url": "limited-ex.com",
+        "Eye": [],
+        "Ear": [
+            "ear_yukari_1.flac"
+        ]
+    },
+    "Houxo Que": {
+        "Location": "Tokyo, Japan",
+        "Url": "quehouxo.com",
+        "Eye": [
+            "eye_houxo_que_1.png",
+            "eye_houxo_que_2.png"
+        ],
+        "Ear": []
+    },
+    "Popyoil": {
+        "Location": "Fukuoka, Japan",
+        "Url": "myspace.com/popyoil",
+        "Eye": [
+            "eye_popyoil_1.png"
+        ],
+        "Ear": []
+    },
+    "Shohei Takasaki": {
+        "Location": "Tokyo, Japan",
+        "Url": "shoheitakasaki.net",
+        "Eye": [
+            "eye_shohei_takasaki_1.png"
+        ],
+        "Ear": []
+    },
+    "Shiro Kojima": {
+        "Location": "Tokyo, Japan",
+        "Url": "richblack.jp",
+        "Eye": [
+            "eye_shiro_kojima_1.png"
+        ],
+        "Ear": []
+    },
+    "AOKI takamasa": {
+        "Location": "Berlin, Germany",
+        "Url": "aokitakamasa.com",
+        "Eye": [],
+        "Ear": [
+            "ear_aoki_1.flac",
+            "ear_aoki_2.flac"
+        ]
+    },
+    "Grant Leuchtner": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/sunkenhorse",
+        "Eye": [
+            "eye_grant_leuchtner_1.png",
+            "eye_grant_leuchtner_2.png"
+        ],
+        "Ear": []
+    },
+    "Lengua": {
+        "Location": "Los Angeles,CA",
+        "Url": "unicorniorecords.com",
+        "Eye": [],
+        "Ear": [
+            "ear_lengua_1.flac"
+        ]
+    },
+    "Martin Allais": {
+        "Location": "Barcelona, Spain",
+        "Url": "juntosotravez.com",
+        "Eye": [
+            "eye_martin_allais_1.png",
+            "eye_martin_allais_2.png"
+        ],
+        "Ear": []
+    },
+    "Museum of Traffic": {
+        "Location": "Los Angeles, CA",
+        "Url": "museumoftraffic.com",
+        "Eye": [
+            "eye_museum_of_traffic_1.png",
+            "eye_museum_of_traffic_2.png"
+        ],
+        "Ear": []
+    },
+    "Plastic Crimewave": {
+        "Location": "Chicago, IL",
+        "Url": "plasticcrimewave.com",
+        "Eye": [
+            "eye_plastic_crimewave_1.png"
+        ],
+        "Ear": [
+            "ear_plastic_crimewave_1.flac"
+        ]
+    },
+    "Ricardo Leite": {
+        "Location": "Barcelona, Spain",
+        "Url": "juntosotravez.com",
+        "Eye": [
+            "eye_ricardo_leite_1.png",
+            "eye_ricardo_leite_2.png",
+            "eye_ricardo_leite_3.png",
+            "eye_ricardo_leite_4.png"
+        ],
+        "Ear": []
+    },
+    "Terlina Lie": {
+        "Location": "Barcelona, Spain",
+        "Url": "fortheloveofcookies.net",
+        "Eye": [
+            "eye_terlina_lie_1.png",
+            "eye_terlina_lie_2.png"
+        ],
+        "Ear": []
+    },
+    "Eva Puyuelo Muns": {
+        "Location": "Barcelona, Spain",
+        "Url": "evapuyuelo.com",
+        "Eye": [
+            "eye_eva_muns_1.png",
+            "eye_eva_muns_2.png"
+        ],
+        "Ear": []
+    },
+    "DKC": {
+        "Location": "Sapporo, Japan",
+        "Url": "king-garage-magazine.com",
+        "Eye": [
+            "eye_dkc_1.png"
+        ],
+        "Ear": []
+    },
+    "Chieko Hara chienoix": {
+        "Location": "Tokyo, Japan",
+        "Url": "chienoix.com",
+        "Eye": [
+            "eye_chienoix_1.png"
+        ],
+        "Ear": []
+    },
+    "Hiroyasu Kosukegawa": {
+        "Location": "Sapporo, Japan",
+        "Url": "hitobito08.exblog.jp",
+        "Eye": [
+            "eye_hiroyasu_kosukegawa_1.png"
+        ],
+        "Ear": []
+    },
+    "Keigo Anan": {
+        "Location": "Sapporo, Japan",
+        "Url": "logram.org",
+        "Eye": [
+            "eye_keigo_anan_1.png"
+        ],
+        "Ear": []
+    },
+    "Sake Kota": {
+        "Location": "Tokyo, Japan",
+        "Url": "sake-kota.com",
+        "Eye": [
+            "eye_sake_kota_1.png"
+        ],
+        "Ear": []
+    },
+    "Masayuki Shioda": {
+        "Location": "Tokyo, Japan",
+        "Url": "",
+        "Eye": [
+            "masayuki_shioda_1.png"
+        ],
+        "Ear": []
+    },
+    "MHAK": {
+        "Location": "Tokyo, Japan",
+        "Url": "mhak.jp",
+        "Eye": [
+            "eye_mhak_1.png"
+        ],
+        "Ear": []
+    },
+    "VIX": {
+        "Location": "Tokyo, Japan",
+        "Url": "swingingallery.com/artist/vix",
+        "Eye": [
+            "eye_vix_1.png"
+        ],
+        "Ear": []
+    },
+    "Sense": {
+        "Location": "Tokyo, Japan",
+        "Url": "myspace.com/sensepeace",
+        "Eye": [
+            "eye_sense_1.png"
+        ],
+        "Ear": []
+    },
+    "Toshiko Kimura": {
+        "Location": "Tokyo, Japan",
+        "Url": "kemukujara.net",
+        "Eye": [
+            "eye_toshiko_kimura_1.png"
+        ],
+        "Ear": []
+    },
+    "mojoVisions": {
+        "Location": "Tokyo, Japan",
+        "Url": "mojovisions.com",
+        "Eye": [
+            "eye_mojovisions_1.png",
+            "eye_mojovisions_2.png",
+            "eye_mojovisions_3.png"
+        ],
+        "Ear": []
+    },
+    "RE:RE:RE:mojojo": {
+        "Location": "Tokyo, Japan",
+        "Url": "rereremojojo.com",
+        "Eye": [
+            "eye_rereremojojo_1.png"
+        ],
+        "Ear": []
+    },
+    "Keiji Ito": {
+        "Location": "Japan",
+        "Url": "site-ufg.com",
+        "Eye": [
+            "eye_keiji_ito_1.png"
+        ],
+        "Ear": []
+    },
+    "Katsuki Tanaka": {
+        "Location": "Tokyo, Japan",
+        "Url": "kaerucafe.com",
+        "Eye": [
+            "eye_katsuki_tanaka_1.png"
+        ],
+        "Ear": []
+    },
+    "Hideki Iwasaki": {
+        "Location": "Tokyo, Japan",
+        "Url": "dubgrapht.com",
+        "Eye": [
+            "eye_hideki_iwasaki_1.png"
+        ],
+        "Ear": []
+    },
+    "Takafumi Tsuchiya": {
+        "Location": "Tokyo, Japan",
+        "Url": "takafumitsuchiya.com",
+        "Eye": [
+            "eye_takafumi_tsuchiya_1.png"
+        ],
+        "Ear": []
+    },
+    "Shotaro Hirastuka": {
+        "Location": "Sapporo, Japan",
+        "Url": "shotarohiratsuka.com",
+        "Eye": [
+            "eye_shotaro_hirastuka_1.png"
+        ],
+        "Ear": []
+    },
+    "Yuka Kawauchi": {
+        "Location": "Sapporo, Japan",
+        "Url": "yukakawauchi.com",
+        "Eye": [
+            "eye_yuka_kawauchi_1.png"
+        ],
+        "Ear": []
+    },
+    "Taiho Ishikawa": {
+        "Location": "Hokkaido, Japan",
+        "Url": "yorma.jp",
+        "Eye": [
+            "eye_taiho_ishikawa_1.png"
+        ],
+        "Ear": []
+    },
+    "Kineta Kunimatsu": {
+        "Location": "Shiraoi, Japan",
+        "Url": "tobiu.com",
+        "Eye": [
+            "eye_kineta_kunimatsu_1.png"
+        ],
+        "Ear": []
+    },
+    "Ukawa Naohiro": {
+        "Location": "Tokyo, Japan",
+        "Url": "ukawa.tv",
+        "Eye": [
+            "eye_ukawa_naohiro_1.png"
+        ],
+        "Ear": [
+            "ear_ukawa_1.flac",
+            "ear_ukawa_2.flac"
+        ]
+    },
+    "Takuya Kawahata": {
+        "Location": "Sapporo, Japan",
+        "Url": "mosslinkage.com/detailsblog/kawahata_takuya/",
+        "Eye": [
+            "eye_takuya_kawahata_1.png"
+        ],
+        "Ear": []
+    },
+    "Takeru Amano": {
+        "Location": "Tokyo, Japan",
+        "Url": "takeruamano.com",
+        "Eye": [
+            "eye_takeru_amano_1.png"
+        ],
+        "Ear": []
+    },
+    "Noriko Izumida": {
+        "Location": "Sapporo, Japan",
+        "Url": "",
+        "Eye": [
+            "eye_noriko_izumida_1.png"
+        ],
+        "Ear": []
+    },
+    "MOCCHIN": {
+        "Location": "Sapporo, Japan",
+        "Url": "mosslinkage.com/detailsblog/kawajiri_motohiro/",
+        "Eye": [
+            "eye_mocchin_1.png"
+        ],
+        "Ear": []
+    },
+    "Emi Shiratori": {
+        "Location": "Sapporo, Japan",
+        "Url": "nanographic.jp",
+        "Eye": [
+            "eye_emi_shiratori_1.png"
+        ],
+        "Ear": []
+    },
+    "meltingman (mitsugu+yorman)": {
+        "Location": "Sapporo, Japan",
+        "Url": "yorma.jp",
+        "Eye": [
+            "eye_meltingman_1.png"
+        ],
+        "Ear": []
+    },
+    "Kizm": {
+        "Location": "Tokyo, Japan",
+        "Url": "www.arton.tv",
+        "Eye": [
+            "eye_kizm_1.png"
+        ],
+        "Ear": []
+    },
+    "Kan Togashi": {
+        "Location": "Sapporo, Japan",
+        "Url": "togac.exblog.jp",
+        "Eye": [
+            "eye_kan_togashi_1.png"
+        ],
+        "Ear": []
+    },
+    "JOJI NAKAMURA": {
+        "Location": "Chiba, Japan",
+        "Url": "",
+        "Eye": [
+            "eye_joji_nakamura_1.png"
+        ],
+        "Ear": []
+    },
+    "Goro Nagashima - gongon": {
+        "Location": "Tokyo, Japan",
+        "Url": "bccks.jp/bcck/info/13251",
+        "Eye": [
+            "eye_goro_nagashima_1.png"
+        ],
+        "Ear": []
+    },
+    "Daisuke UKISITA": {
+        "Location": "Tokyo, Japan",
+        "Url": "kimimo.web.fc2.com",
+        "Eye": [
+            "eye_daisuke_ukisita_1.png"
+        ],
+        "Ear": []
+    },
+    "drum no hito": {
+        "Location": "Tokyo, Japan",
+        "Url": "kimimo.web.fc2.com",
+        "Eye": [
+            "eye_drum_no_hito.png"
+        ],
+        "Ear": []
+    },
+    "satoshi OKANO": {
+        "Location": "Tokyo, Japan",
+        "Url": "kimimo.web.fc2.com",
+        "Eye": [
+            "eye_satoshi_okano_1.png"
+        ],
+        "Ear": []
+    },
+    "masaki TODA": {
+        "Location": "Tokyo, Japan",
+        "Url": "kimimo.web.fc2.com",
+        "Eye": [
+            "eye_masaki_toda_1.png"
+        ],
+        "Ear": []
+    },
+    "Kleptomaniac": {
+        "Location": "Tokyo, Japan",
+        "Url": "kleptomaniac.jp",
+        "Eye": [
+            "eye_kleptomaniac_1.png",
+            "eye_kleptomaniac_2.png"
+        ],
+        "Ear": []
+    },
+    "D[di:]": {
+        "Location": "Tokyo, Japan",
+        "Url": "deeth.net",
+        "Eye": [
+            "eye_d_1.png"
+        ],
+        "Ear": []
+    },
+    "Culex": {
+        "Location": "Sapporo, Japan",
+        "Url": "locasystem.net/culex",
+        "Eye": [
+            "eye_culex_1.png"
+        ],
+        "Ear": []
+    },
+    "Taihei Shii": {
+        "Location": "Chiba, Japan",
+        "Url": "yukariart-contemporary.com/jp/taihei_shii/",
+        "Eye": [
+            "eye_taihei_shii_1.png"
+        ],
+        "Ear": []
+    },
+    "Akemi Sumi": {
+        "Location": "Sapporo, Japan",
+        "Url": "naturalbicycle.com",
+        "Eye": [
+            "eye_akemi_sumi_1.png"
+        ],
+        "Ear": []
+    },
+    "373": {
+        "Location": "Tokyo, Japan",
+        "Url": "fubaabubba.blogspot.com",
+        "Eye": [
+            "eye_373_1.png"
+        ],
+        "Ear": []
+    },
+    "Ketanro Iwaki": {
+        "Location": "Toyama, Japan",
+        "Url": "dubdub.jugem.jp",
+        "Eye": [],
+        "Ear": [
+            "ear_ketanro_iwaki_1.flac",
+            "ear_ketanro_iwaki_2.flac",
+            "ear_ketanro_iwaki_3.flac",
+            "ear_ketanro_iwaki_4.flac",
+            "ear_ketanro_iwaki_5.flac"
+        ]
+    },
+    "O.N.O": {
+        "Location": "Sapporo, Japan",
+        "Url": "onomono.jp",
+        "Eye": [],
+        "Ear": [
+            "ear_ono_1.flac"
+        ]
+    },
+    "Yuko Mohri": {
+        "Location": "Tokyo, Japan",
+        "Url": "mohrizm.net",
+        "Eye": [],
+        "Ear": [
+            "ear_yuko_mohri_1.flac",
+            "ear_yuko_mohri_2.flac",
+            "ear_yuko_mohri_3.flac"
+        ]
+    },
+    "KEIICHIRO SHIBUYA": {
+        "Location": "Tokyo, Japan",
+        "Url": "atak.jp",
+        "Eye": [],
+        "Ear": [
+            "ear_shibuya_1.flac"
+        ]
+    },
+    "Cradle": {
+        "Location": "Tokyo, Japan",
+        "Url": "palette-sounds.com/cradle",
+        "Eye": [],
+        "Ear": [
+            "ear_cradle_1.flac",
+            "ear_cradle_2.flac",
+            "ear_cradle_3.flac"
+        ]
+    },
+    "Chromasonus": {
+        "Location": "Tokyo, Japan",
+        "Url": "chromasonus.net",
+        "Eye": [],
+        "Ear": [
+            "ear_chromasonus_1.flac"
+        ]
+    },
+    "L?K?O": {
+        "Location": "Tokyo, Japan",
+        "Url": "myspace.com/oigoru",
+        "Eye": [],
+        "Ear": [
+            "ear_lko_1.flac",
+            "ear_lko_2.flac",
+            "ear_lko_3.flac",
+            "ear_lko_4.flac",
+            "ear_lko_5.flac"
+        ]
+    },
+    "OORUTAICHI": {
+        "Location": "Osaka, Japan",
+        "Url": "myspace.com/oorutaichi",
+        "Eye": [],
+        "Ear": [
+            "ear_oorutaichi_1.flac",
+            "ear_oorutaichi_2.flac",
+            "ear_oorutaichi_3.flac",
+            "ear_oorutaichi_4.flac"
+        ]
+    },
+    "aus": {
+        "Location": "Tokyo, Japan",
+        "Url": "ausmusik.com",
+        "Eye": [],
+        "Ear": [
+            "ear_aus_1.flac",
+            "ear_aus_2.flac"
+        ]
+    },
+    "Tujiko Noriko": {
+        "Location": "Paris,France",
+        "Url": "tujikonoriko.com",
+        "Eye": [],
+        "Ear": [
+            "ear_tujiko_noriko_1.flac"
+        ]
+    },
+    "Ryuichi Sakamoto": {
+        "Location": "New York, NY",
+        "Url": "sitesakamoto.com",
+        "Eye": [],
+        "Ear": [
+            "ear_ryuichi_sakamoto_1.flac"
+        ]
+    },
+    "DJ Duct": {
+        "Location": "Tokyo, Japan",
+        "Url": "myspace.com/djduct",
+        "Eye": [],
+        "Ear": [
+            "ear_duct_1.flac"
+        ]
+    },
+    "Inner Science": {
+        "Location": "Tokyo, Japan",
+        "Url": "masuminishimura.com",
+        "Eye": [],
+        "Ear": [
+            "ear_inner_science_1.flac"
+        ]
+    },
+    "Scriptones": {
+        "Location": "Tokyo, Japan",
+        "Url": "intervall-audio.com/artists/scriptones.html",
+        "Eye": [],
+        "Ear": [
+            "ear_scriptones_1.flac",
+            "ear_scriptones_2.flac",
+            "ear_scriptones_3.flac",
+            "ear_scriptones_4.flac",
+            "ear_scriptones_5.flac",
+            "ear_scriptones_6.flac",
+            "ear_scriptones_7.flac",
+            "ear_scriptones_8.flac"
+        ]
+    },
+    "Chiyori": {
+        "Location": "Tokyo, Japan",
+        "Url": "myspace.com/chiyorism",
+        "Eye": [],
+        "Ear": [
+            "ear_chiyori_1.flac"
+        ]
+    },
+    "Eccy": {
+        "Location": "Tokyo, Japan",
+        "Url": "myspace.com/eccytrv",
+        "Eye": [],
+        "Ear": [
+            "ear_eccy_1.flac"
+        ]
+    },
+    "jealousguy": {
+        "Location": "Sapporo, Japan",
+        "Url": "jealousguysongs.com/sound.html",
+        "Eye": [],
+        "Ear": [
+            "ear_jealousguy_1.flac",
+            "ear_jealousguy_2.flac"
+        ]
+    },
+    "Olololop": {
+        "Location": "Sapporo, Japan",
+        "Url": "myspace.com/olololololop",
+        "Eye": [],
+        "Ear": [
+            "ear_olololop_1.flac",
+            "ear_olololop_2.flac",
+            "ear_olololop_3.flac"
+        ]
+    },
+    "FIFTO": {
+        "Location": "Sapporo, Japan",
+        "Url": "polyp-music.com",
+        "Eye": [],
+        "Ear": [
+            "ear_fifto_1.flac",
+            "ear_fifto_2.flac"
+        ]
+    },
+    "Illreme": {
+        "Location": "Tokyo, Japan",
+        "Url": "illreme.com",
+        "Eye": [],
+        "Ear": [
+            "ear_illreme_1.flac",
+            "ear_illreme_2.flac"
+        ]
+    },
+    "Olive Oil": {
+        "Location": "Fukuoka, Japan",
+        "Url": "myspace.com/oilworks",
+        "Eye": [],
+        "Ear": [
+            "ear_olive_oil_1.flac",
+            "ear_olive_oil_2.flac"
+        ]
+    },
+    "Tamaki Roy": {
+        "Location": "Tokyo, Japan",
+        "Url": "tamakiroy.com",
+        "Eye": [],
+        "Ear": [
+            "ear_tamaki_roy_1.flac"
+        ]
+    },
+    "Farmer Dave Scher and Frosty": {
+        "Location": "Los Angeles, CA",
+        "Url": "dublab.com",
+        "Eye": [],
+        "Ear": [
+            "ear_farmer_dave_scher_and_frosty_1.flac"
+        ]
+    },
+    "Hisa": {
+        "Location": "Shizuoka, Japan",
+        "Url": "www.hisa.asia",
+        "Eye": [
+            "eye_hisa_1.png"
+        ],
+        "Ear": []
+    },
+    "Azzurro": {
+        "Location": "Japan",
+        "Url": "myspace.com/ilmareazzurro",
+        "Eye": [],
+        "Ear": [
+            "ear_azzurro_1.flac"
+        ]
+    },
+    "Anh Do": {
+        "Location": "Los Angeles, CA",
+        "Url": "owleypatrol.com",
+        "Eye": [],
+        "Ear": [
+            "ear_anh_do_1.flac"
+        ]
+    },
+    "wavvy": {
+        "Location": "Fujisawa, Japan",
+        "Url": "opdisc.com",
+        "Eye": [],
+        "Ear": [
+            "ear_wavvy_1.flac",
+            "ear_wavvy_2.flac",
+            "ear_wavvy_3.flac",
+            "ear_wavvy_4.flac",
+            "ear_wavvy_5.flac",
+            "ear_wavvy_6.flac",
+            "ear_wavvy_7.flac"
+        ]
+    },
+    "Killer Bong": {
+        "Location": "Tokyo, Japan",
+        "Url": "blacksmoker.net",
+        "Eye": [],
+        "Ear": [
+            "ear_killer_bong_1.flac",
+            "ear_killer_bong_2.flac",
+            "ear_killer_bong_3.flac",
+            "ear_killer_bong_4.flac",
+            "ear_killer_bong_5.flac"
+        ]
+    },
+    "DJ Kiyo": {
+        "Location": "Okinawa, Japan",
+        "Url": "myspace.com/djkiyo",
+        "Eye": [],
+        "Ear": [
+            "ear_kiyo_1.flac",
+            "ear_kiyo_2.flac",
+            "ear_kiyo_3.flac",
+            "ear_kiyo_4.flac",
+            "ear_kiyo_5.flac"
+        ]
+    },
+    "Evisbeats": {
+        "Location": "Osaka, Japan",
+        "Url": "myspace.com/evisbeats",
+        "Eye": [],
+        "Ear": [
+            "ear_evisbeats_1.flac"
+        ]
+    },
+    "Rika Ishii": {
+        "Location": "Shizuoka, Japan",
+        "Url": "myspace.com/rikaishii",
+        "Eye": [
+            "eye_rika_ishii_1.png"
+        ],
+        "Ear": []
+    },
+    "Diagram": {
+        "Location": "Tokyo, Japan",
+        "Url": "diagramdesigns.com",
+        "Eye": [
+            "eye_diagram_designs_1.png",
+            "eye_diagram_designs_2.png"
+        ],
+        "Ear": []
+    },
+    "Shing02": {
+        "Location": "Los Angeles, Tokyo",
+        "Url": "e22.com",
+        "Eye": [],
+        "Ear": [
+            "ear_shing02_1.flac"
+        ]
+    },
+    "Riow Arai": {
+        "Location": "Tokyo, Japan",
+        "Url": "riowarai.com",
+        "Eye": [],
+        "Ear": [
+            "ear_riow_arai_1.flac",
+            "ear_riow_arai_2.flac"
+        ]
+    },
+    "Hair Stylistics": {
+        "Location": "Tokyo, Japan",
+        "Url": "www.boid-s.com/artist/362.php",
+        "Eye": [
+            "eye_hair_stylistics_1.png",
+            "eye_hair_stylistics_2.png"
+        ],
+        "Ear": [
+            "ear_hair_stylistics_1.flac",
+            "ear_hair_stylistics_2.flac",
+            "ear_hair_stylistics_3.flac",
+            "ear_hair_stylistics_4.flac",
+            "ear_hair_stylistics_5.flac"
+        ]
+    },
+    "BAKIBAKI": {
+        "Location": "Tokyo, Japan",
+        "Url": "yamaokohei.com",
+        "Eye": [
+            "eye_bakibaki_1.png",
+            "eye_bakibaki_2.png"
+        ],
+        "Ear": []
+    },
+    "DJ Kensei": {
+        "Location": "Tokyo, Japan",
+        "Url": "djkensei.com",
+        "Eye": [],
+        "Ear": [
+            "ear_kensei_1.flac",
+            "ear_kensei_2.flac",
+            "ear_kensei_3.flac",
+            "ear_kensei_4.flac",
+            "ear_kensei_4.flac",
+            "ear_kensei_5.flac"
+        ]
+    },
+    "Sky": {
+        "Location": "Earth",
+        "Url": "",
+        "Eye": [
+            "eye_sky_1.png",
+            "eye_sky_2.png"
+        ],
+        "Ear": []
+    },
+    "Alejandro Cohen": {
+        "Location": "Los Angeles,CA",
+        "Url": "languis.com",
+        "Eye": [
+            "eye_alejandro_cohen_1.png",
+            "eye_alejandro_cohen_2.png",
+            "eye_alejandro_cohen_3.png",
+            "eye_alejandro_cohen_4.png"
+        ],
+        "Ear": []
+    },
+    "John Malloy": {
+        "Location": "Baltimore, MD",
+        "Url": "johnmalloy.net",
+        "Eye": [
+            "eye_john_malloy_1.png"
+        ],
+        "Ear": []
+    },
+    "Mike Richardson Esq.": {
+        "Location": "Los Angeles,CA",
+        "Url": "myspace.com/theminorcanon",
+        "Eye": [],
+        "Ear": [
+            "ear_mike_richardson_esq_1.flac",
+            "ear_mike_richardson_esq_1.flac",
+            "ear_mike_richardson_esq_3.flac",
+            "ear_mike_richardson_esq_4.flac"
+        ]
+    },
+    "Ques": {
+        "Location": "Hong Kong",
+        "Url": "lcp-united.com",
+        "Eye": [
+            "eye_ques_1.png"
+        ],
+        "Ear": []
+    },
+    "Hideyuki Katsumata": {
+        "Location": "Japan",
+        "Url": "myspace.com/hideyuki_k",
+        "Eye": [
+            "eye_hideyuki_katsumata_1.png",
+            "eye_hideyuki_katsumata_2.png"
+        ],
+        "Ear": []
+    },
+    "Ricky Holguin": {
+        "Location": "Menifee, CA",
+        "Url": "myspace.com/Huloeone",
+        "Eye": [
+            "eye_ricky_holguin_1.png"
+        ],
+        "Ear": []
+    },
+    "Exile": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/alexile",
+        "Eye": [
+            "eye_exile_1.png"
+        ],
+        "Ear": []
+    },
+    "Line Vangrunderbeek": {
+        "Location": "Belgium",
+        "Url": "",
+        "Eye": [
+            "eye_line_vangrunderbeek_1.png",
+            "eye_line_vangrunderbeek_2.png",
+            "eye_line_vangrunderbeek_3.png"
+        ],
+        "Ear": []
+    },
+    "Florecio Zavala": {
+        "Location": "Los Angeles, CA",
+        "Url": "brownlikeme.com",
+        "Eye": [
+            "eye_florencio_zavala_1.png"
+        ],
+        "Ear": []
+    },
+    "2tall": {
+        "Location": "London, UK",
+        "Url": "myspace.com/jim2tall",
+        "Eye": [],
+        "Ear": [
+            "ear_2tall_1.flac"
+        ]
+    },
+    "Abcnt": {
+        "Location": "Los Angeles, CA",
+        "Url": "abcnt.info",
+        "Eye": [
+            "eye_abcnt_1.png",
+            "eye_abcnt_2.png"
+        ],
+        "Ear": []
+    },
+    "Andreas Bick": {
+        "Location": "Berlin, Germany",
+        "Url": "silent-listening.com",
+        "Eye": [],
+        "Ear": [
+            "ear_andreas_bick_1.flac"
+        ]
+    },
+    "Andres Renteria": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/andresrenteria",
+        "Eye": [],
+        "Ear": [
+            "ear_andres_renteria_1.flac"
+        ]
+    },
+    "Adventure Time": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/adventuretime",
+        "Eye": [],
+        "Ear": [
+            "ear_adventure_time_1.flac",
+            "ear_adventure_time_2.flac",
+            "ear_adventure_time_3.flac",
+            "ear_adventure_time_4.flac"
+        ]
+    },
+    "Akiko Bharoocha": {
+        "Location": "Los Angeles, CA",
+        "Url": "",
+        "Eye": [
+            "eye_akiko_bharoocha_1.png",
+            "eye_akiko_bharoocha_2.png",
+            "eye_akiko_bharoocha_3.png"
+        ],
+        "Ear": []
+    },
+    "Akiko and Hashim Bharoocha": {
+        "Location": "Los Angeles, CA",
+        "Url": "",
+        "Eye": [],
+        "Ear": [
+            "ear_akiko_hashim_1.flac",
+            "ear_akiko_hashim_2.flac",
+            "ear_akiko_hashim_3.flac",
+            "ear_akiko_hashim_4.flac",
+            "ear_akiko_hashim_5.flac",
+            "ear_akiko_hashim_6.flac"
+        ]
+    },
+    "Alex Skramble": {
+        "Location": "Los Angeles, CA",
+        "Url": "skramble.com",
+        "Eye": [
+            "eye_alex_skramble_1.png",
+            "eye_alex_skramble_2.png",
+            "eye_alex_skramble_3.png",
+            "eye_alex_skramble_4.png"
+        ],
+        "Ear": []
+    },
+    "Alice Dufay": {
+        "Location": "Caen France",
+        "Url": "myspace.com/alicedufay",
+        "Eye": [
+            "eye_alice_dufay_1.png"
+        ],
+        "Ear": []
+    },
+    "Aaron Kuehn": {
+        "Location": "Los Angeles, CA",
+        "Url": "k4m.us",
+        "Eye": [
+            "eye_aaron_kuehn_1.png",
+            "eye_aaron_kuehn_2.png",
+            "eye_aaron_kuehn_3.png"
+        ],
+        "Ear": []
+    },
+    "Anthony Valadez": {
+        "Location": "Los Angeles",
+        "Url": "myspace.com/anthonyvaladez",
+        "Eye": [
+            "eye_anthony_valadez_1.png",
+            "eye_anthony_valadez_2.png"
+        ],
+        "Ear": []
+    },
+    "Andrew Pekler": {
+        "Location": "Berlin, Germany",
+        "Url": "andrewpekler.com",
+        "Eye": [],
+        "Ear": [
+            "ear_andrew_pekler_1.flac",
+            "ear_andrew_pekler_2.flac",
+            "ear_andrew_pekler_3.flac",
+            "ear_andrew_pekler_4.flac",
+            "ear_andrew_pekler_5.flac",
+            "ear_andrew_pekler_6.flac",
+            "ear_andrew_pekler_7.flac",
+            "ear_andrew_pekler_8.flac",
+            "ear_andrew_pekler_9.flac"
+        ]
+    },
+    "Annie Goh": {
+        "Location": "Berlin, Germany",
+        "Url": "",
+        "Eye": [],
+        "Ear": [
+            "ear_annie_goh_1.flac"
+        ]
+    },
+    "Arti": {
+        "Location": "Chino Hills, CA",
+        "Url": "myhollowdrum.com",
+        "Eye": [],
+        "Ear": [
+            "ear_arti_1.flac"
+        ]
+    },
+    "Atti": {
+        "Location": "Amsterdam, Holland",
+        "Url": "atti.ne",
+        "Eye": [
+            "eye_atti_1.png"
+        ],
+        "Ear": []
+    },
+    "Bracken": {
+        "Location": "Leeds, United Kingdom",
+        "Url": "myspace.com/brackenmusic",
+        "Eye": [],
+        "Ear": [
+            "ear_bracken_1.flac",
+            "ear_bracken_2.flac",
+            "ear_bracken_3.flac",
+            "ear_bracken_4.flac",
+            "ear_bracken_5.flac"
+        ]
+    },
+    "Brandy Flower": {
+        "Location": "Los Angeles, CA",
+        "Url": "thehitandrun.com",
+        "Eye": [
+            "eye_brandy_flower_1.png",
+            "eye_brandy_flower_2.png"
+        ],
+        "Ear": []
+    },
+    "Brit Benjamin": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/britbenjamin",
+        "Eye": [],
+        "Ear": [
+            "ear_britt_benjamin_1.flac",
+            "ear_britt_benjamin_2.flac"
+        ]
+    },
+    "Campbell": {
+        "Location": "Concord, MA",
+        "Url": "thezone.info",
+        "Eye": [],
+        "Ear": [
+            "ear_campbell_1.flac",
+            "ear_campbell_2.flac",
+            "ear_campbell_3.flac",
+            "ear_campbell_4.flac"
+        ]
+    },
+    "Chantelle Silva": {
+        "Location": "Los Angeles,CA",
+        "Url": "",
+        "Eye": [
+            "eye_chantelle_silva_1.png"
+        ],
+        "Ear": []
+    },
+    "Charlotte L. Dix": {
+        "Location": "Sylmar, CA",
+        "Url": "",
+        "Eye": [
+            "eye_charlotte_dix_1.png",
+            "eye_charlotte_dix_2.png",
+            "eye_charlotte_dix_3.png"
+        ],
+        "Ear": []
+    },
+    "Chase": {
+        "Location": "Los Angeles, CA",
+        "Url": "theartofchase.com",
+        "Eye": [
+            "eye_chase_1.png",
+            "eye_chase_2.png",
+            "eye_chase_3.png"
+        ],
+        "Ear": []
+    },
+    "Chrissy Murderbot": {
+        "Location": "Chicago, IL",
+        "Url": "myspace.com/murderbot",
+        "Eye": [],
+        "Ear": [
+            "ear_chrissy_murderbot_1.flac"
+        ]
+    },
+    "Christopher Bettig": {
+        "Location": "Los Angeles, CA",
+        "Url": "themountainlabel.com",
+        "Eye": [
+            "eye_christopher_bettig_1.png",
+            "eye_christopher_bettig_2.png"
+        ],
+        "Ear": []
+    },
+    "Chris Skonieczny": {
+        "Location": "London, U.K.",
+        "Url": "tuffurl.com",
+        "Eye": [
+            "eye_chris_skonieczny_1.png",
+            "eye_chris_skonieczny_2.png"
+        ],
+        "Ear": []
+    },
+    "Chris Weisbart": {
+        "Location": "Los Angeles, CA",
+        "Url": "talosian.com",
+        "Eye": [
+            "eye_chris_weisbart_1.png"
+        ],
+        "Ear": []
+    },
+    "Claire Fons": {
+        "Location": "Amsterdam, The Netherlands",
+        "Url": "clairefons.com",
+        "Eye": [
+            "eye_claire_tons_1.png"
+        ],
+        "Ear": []
+    },
+    "Clay Lipsky": {
+        "Location": "Los Angeles, CA",
+        "Url": "goclaygo.com",
+        "Eye": [
+            "eye_clay_lipsky_1.png"
+        ],
+        "Ear": []
+    },
+    "Computer Jay": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/computerj",
+        "Eye": [],
+        "Ear": [
+            "ear_computer_jay_1.flac",
+            "ear_computer_jay_2.flac",
+            "ear_computer_jay_3.flac",
+            "ear_computer_jay_4.flac",
+            "ear_computer_jay_5.flac"
+        ]
+    },
+    "dEan Britto": {
+        "Location": "Toronto, Canada",
+        "Url": "de1986.com",
+        "Eye": [
+            "eye_dean_britto_1.png",
+            "eye_dean_britto_2.png"
+        ],
+        "Ear": []
+    },
+    "Diego Herrera": {
+        "Location": "Los Angeles, CA",
+        "Url": "discothequerecords.com",
+        "Eye": [
+            "eye_diego_herrera_1.png",
+            "eye_diego_herrera_2.png"
+        ],
+        "Ear": []
+    },
+    "dntel": {
+        "Location": "Los Angeles, CA",
+        "Url": "jimmytamborello.com",
+        "Eye": [],
+        "Ear": [
+            "ear_dntel_1.flac",
+            "ear_dntel_2.flac",
+            "ear_dntel_3.flac",
+            "ear_dntel_4.flac",
+            "ear_dntel_5.flac",
+            "ear_dntel_6.flac",
+            "ear_dntel_7.flac",
+            "ear_dntel_8.flac",
+            "ear_dntel_9.flac",
+            "ear_dntel_10.flac",
+            "ear_dntel_11.flac"
+        ]
+    },
+    "Drew Kuhse": {
+        "Location": "Los Angeles, CA",
+        "Url": "thehitandrun.com",
+        "Eye": [
+            "eye_drew_kuhse_1.png",
+            "eye_drew_kuhse_2.png"
+        ],
+        "Ear": []
+    },
+    "Edgar Walthert": {
+        "Location": "Amsterdam, The Netherlands",
+        "Url": "ewalthert.com",
+        "Eye": [
+            "eye_edj_1.png"
+        ],
+        "Ear": []
+    },
+    "edj": {
+        "Location": "Amsterdam, The Netherlands",
+        "Url": "ewalthert.com",
+        "Eye": [],
+        "Ear": [
+            "ear_edj_1.flac"
+        ]
+    },
+    "Eric Fensler": {
+        "Location": "Los Angeles, CA",
+        "Url": "fenslerfilm.com",
+        "Eye": [
+            "eye_eric_fensler_1.png",
+            "eye_eric_fensler_2.png"
+        ],
+        "Ear": []
+    },
+    "Eric V": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/ericvallely",
+        "Eye": [],
+        "Ear": [
+            "ear_eric_vallely_1.flac",
+            "ear_eric_vallely_2.flac",
+            "ear_eric_vallely_3.flac"
+        ]
+    },
+    "Eriksolo MMC": {
+        "Location": "Los Angeles, CA",
+        "Url": "meanest.net",
+        "Eye": [],
+        "Ear": [
+            "ear_eriksolo_mmc_1.flac",
+            "ear_eriksolo_mmc_2.flac",
+            "ear_eriksolo_mmc_3.flac",
+            "ear_eriksolo_mmc_4.flac"
+        ]
+    },
+    "Eli Sipsas": {
+        "Location": "Los Angeles, CA",
+        "Url": "therestitutionpress.com",
+        "Eye": [
+            "eye_eli_sipsas_1.png"
+        ],
+        "Ear": []
+    },
+    "Ellie See": {
+        "Location": "Kuala Lumpur, Malaysia",
+        "Url": "",
+        "Eye": [
+            "eye_ellie_see_1.png",
+            "eye_ellie_see_2.png",
+            "eye_ellie_see_3.png"
+        ],
+        "Ear": []
+    },
+    "Elvis Segarich": {
+        "Location": "Costa Mesa, CA",
+        "Url": "elvisdesigns.com",
+        "Eye": [
+            "eye_elvis_segarich_1.png",
+            "eye_elvis_segarich_2.png"
+        ],
+        "Ear": []
+    },
+    "Eszter Toth": {
+        "Location": "London, UK",
+        "Url": "esztertoth.com",
+        "Eye": [
+            "eye_eszter_toth_1.png"
+        ],
+        "Ear": []
+    },
+    "Ethan Persoff": {
+        "Location": "Austin, TX",
+        "Url": "ep.tc",
+        "Eye": [],
+        "Ear": [
+            "ear_ethan_persoff_1.flac"
+        ]
+    },
+    "Emily Ryan": {
+        "Location": "Brooklyn, NY",
+        "Url": "emily-ryan.nu",
+        "Eye": [
+            "eye_emily_ryan_1.png",
+            "eye_emily_ryan_2.png",
+            "eye_emily_ryan_3.png"
+        ],
+        "Ear": []
+    },
+    "Felix Jackson Jr.": {
+        "Location": "Denver, CO",
+        "Url": "felixjacksonjr.com",
+        "Eye": [
+            "eye_felix_1.png"
+        ],
+        "Ear": []
+    },
+    "FINEART": {
+        "Location": "Edinburgh, Scotland",
+        "Url": "thisisluckyme.com",
+        "Eye": [],
+        "Ear": [
+            "ear_fineart_1.flac",
+            "ear_fineart_2.flac",
+            "ear_fineart_3.flac",
+            "ear_fineart_4.flac"
+        ]
+    },
+    "Flying Lotus": {
+        "Location": "Los Angeles, CA",
+        "Url": "flying-lotus.com",
+        "Eye": [],
+        "Ear": [
+            "ear_flying_lotus_1.flac"
+        ]
+    },
+    "fONKSQUISh": {
+        "Location": "San Francisco, CA",
+        "Url": "new.facebook.com/pages/fONKSQUISh/5817544500",
+        "Eye": [],
+        "Ear": [
+            "ear_fonksquish_1.flac"
+        ]
+    },
+    "frosty": {
+        "Location": "Los Angeles, CA",
+        "Url": "dublab.com/frosty",
+        "Eye": [
+            "eye_frosty_1.png",
+            "eye_frosty_2.png",
+            "eye_frosty_3.png",
+            "eye_frosty_4.png"
+        ],
+        "Ear": [
+            "ear_frosty_1.flac",
+            "ear_frosty_2.flac",
+            "ear_frosty_3.flac",
+            "ear_frosty_4.flac",
+            "ear_frosty_5.flac",
+            "ear_frosty_6.flac",
+            "ear_frosty_7.flac",
+            "ear_frosty_8.flac",
+            "ear_frosty_9.flac"
+        ]
+    },
+    "Fernanda Cohen": {
+        "Location": "Brooklyn, NY",
+        "Url": "fernandacohen.com",
+        "Eye": [
+            "eye_fernanda_cohen_1.png",
+            "eye_fernanda_cohen_2.png",
+            "eye_fernanda_cohen_3.png"
+        ],
+        "Ear": []
+    },
+    "Fulgeance": {
+        "Location": "France",
+        "Url": "myspace.com/fulgeance",
+        "Eye": [],
+        "Ear": [
+            "ear_fulgeance_1.flac"
+        ]
+    },
+    "Paulo Rafael": {
+        "Location": "Los Angeles, CA",
+        "Url": "myhollowdrum.com",
+        "Eye": [
+            "eye_ghsst_1.png"
+        ],
+        "Ear": []
+    },
+    "The Gaslamp Killer": {
+        "Location": "Los Angeles, CA",
+        "Url": "thegaslampkiller.com",
+        "Eye": [
+            "eye_glk_1.png"
+        ],
+        "Ear": []
+    },
+    "Grace Oh": {
+        "Location": "Los Angeles, CA",
+        "Url": "graceoh.net",
+        "Eye": [
+            "eye_grace_oh_1.png"
+        ],
+        "Ear": []
+    },
+    "Gustavo Alberto Garcia Vaca": {
+        "Location": "Los Angeles, CA",
+        "Url": "chamanvision.com",
+        "Eye": [
+            "eye_gustavo_alberto_garcia_vaca_1.png",
+            "eye_gustavo_alberto_garcia_vaca_2.png",
+            "eye_gustavo_alberto_garcia_vaca_3.png"
+        ],
+        "Ear": []
+    },
+    "Gwen Cifuentes": {
+        "Location": "Los Angeles, CA",
+        "Url": "wewillruletheworld.com",
+        "Eye": [
+            "eye_gwen_cifuentes_1.png",
+            "eye_gwen_cifuentes_2.png"
+        ],
+        "Ear": []
+    },
+    "Hannah and Molly Kraus": {
+        "Location": "Boston, MA",
+        "Url": "",
+        "Eye": [
+            "eye_hannah_and_molly_kraus_1.png"
+        ],
+        "Ear": []
+    },
+    "Hashim B.": {
+        "Location": "Los Angeles, CA",
+        "Url": "",
+        "Eye": [],
+        "Ear": [
+            "ear_hashim_bharoocha_1.flac",
+            "ear_hashim_bharoocha_2.flac",
+            "ear_hashim_bharoocha_3.flac",
+            "ear_hashim_bharoocha_4.flac",
+            "ear_hashim_bharoocha_5.flac",
+            "ear_hashim_bharoocha_6.flac"
+        ]
+    },
+    "Honey Owens": {
+        "Location": "Portland, Oregon",
+        "Url": "yarnlazer.com/valet",
+        "Eye": [
+            "eye_honey_owens_1.png"
+        ],
+        "Ear": []
+    },
+    "Howl": {
+        "Location": "Shanghai, China",
+        "Url": "",
+        "Eye": [
+            "eye_howl_1.png",
+            "eye_howl_2.png",
+            "eye_howl_3.png"
+        ],
+        "Ear": []
+    },
+    "Hrishikesh Hirway": {
+        "Location": "Los Angeles, CA",
+        "Url": "theoneamradio.com",
+        "Eye": [
+            "eye_hrishikesh_hirway_1.png"
+        ],
+        "Ear": [
+            "ear_hrishikesh_hirway_1.flac"
+        ]
+    },
+    "i11even": {
+        "Location": "Tokyo, Japan",
+        "Url": "myspace.com/disquescorde",
+        "Eye": [],
+        "Ear": [
+            "ear_i11even_1.flac",
+            "ear_i11even_2.flac"
+        ]
+    },
+    "Ishi": {
+        "Location": "Melbourne, Australia",
+        "Url": "kinyobidesigns.com",
+        "Eye": [
+            "eye_ishi_1.png",
+            "eye_ishi_2.png"
+        ],
+        "Ear": []
+    },
+    "Jason Macaya": {
+        "Location": "Los Angeles,CA",
+        "Url": "jasonmacaya.com",
+        "Eye": [
+            "eye_jason_macaya_1.png",
+            "eye_jason_macaya_2.png"
+        ],
+        "Ear": []
+    },
+    "Jao": {
+        "Location": "Babylon, CA",
+        "Url": "justanowl.com",
+        "Eye": [
+            "eye_jao_1.png",
+            "eye_jao_2.png"
+        ],
+        "Ear": []
+    },
+    "Jeremy Diego Jumanan": {
+        "Location": "San Diego, CA",
+        "Url": "zhibit.org/diego1j",
+        "Eye": [
+            "eye_jeremy_diego_jumanan_1.png"
+        ],
+        "Ear": []
+    },
+    "Jocelyn Jillett": {
+        "Location": "Portland, Oregon",
+        "Url": "jocelynjillett.blogspot.com",
+        "Eye": [
+            "eye_jocelyn_jillett_1.png"
+        ],
+        "Ear": []
+    },
+    "John Mendez": {
+        "Location": "Minneapolis, MN",
+        "Url": "",
+        "Eye": [
+            "eye_john_mendez_1.png",
+            "eye_john_mendez_2.png",
+            "eye_john_mendez_3.png"
+        ],
+        "Ear": []
+    },
+    "Jonde Northcutt": {
+        "Location": "Santa Ana, CA",
+        "Url": "bluestoneeditions.com",
+        "Eye": [
+            "eye_jonde_northcutt_1.png",
+            "eye_jonde_northcutt_2.png"
+        ],
+        "Ear": []
+    },
+    "Julia Holter": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/juliaholter",
+        "Eye": [],
+        "Ear": [
+            "ear_julia_holter_1.flac",
+            "ear_julia_holter_2.flac"
+        ]
+    },
+    "Karin Hofko": {
+        "Location": "Auckland",
+        "Url": "kir-royal.net",
+        "Eye": [
+            "eye_karin_hofko_1.png",
+            "eye_karin_hofko_2.png"
+        ],
+        "Ear": []
+    },
+    "Katsuo Design": {
+        "Location": "Los Angeles,CA",
+        "Url": "katsuodesign.com",
+        "Eye": [
+            "eye_katsuo_design_1.png",
+            "eye_katsuo_design_2.png"
+        ],
+        "Ear": []
+    },
+    "KeepBullFighting": {
+        "Location": "Tallahassee, FL",
+        "Url": "myspace.com/keepbullfighting",
+        "Eye": [],
+        "Ear": [
+            "ear_keepbullfighting_1.flac",
+            "ear_keepbullfighting_2.flac"
+        ]
+    },
+    "Keith Tamashiro": {
+        "Location": "Los Angeles,CA",
+        "Url": "keithtamashiro.com",
+        "Eye": [
+            "eye_keith_tamashiro_1.png",
+            "eye_keith_tamashiro_2.png"
+        ],
+        "Ear": []
+    },
+    "Kir Royal": {
+        "Location": "New Zealand",
+        "Url": "kir-royal.net",
+        "Eye": [],
+        "Ear": [
+            "ear_kir_royal_1.flac"
+        ]
+    },
+    "Kixly": {
+        "Location": "Tijuana, Mexico",
+        "Url": "myspace.com/kixly",
+        "Eye": [],
+        "Ear": [
+            "ear_kixly_1.flac"
+        ]
+    },
+    "Kofie One": {
+        "Location": "Los Angeles, CA",
+        "Url": "keepdrafting.com",
+        "Eye": [
+            "eye_kofie_one_1.png",
+            "eye_kofie_one_2.png"
+        ],
+        "Ear": []
+    },
+    "Kon Tazas": {
+        "Location": "Australia",
+        "Url": "myspace.com/kostaki66",
+        "Eye": [
+            "eye_kon_tazas_1.png",
+            "eye_kon_tazas_2.png"
+        ],
+        "Ear": []
+    },
+    "Kristof Krisztian": {
+        "Location": "Hungary",
+        "Url": "pause.freeblog.hu",
+        "Eye": [],
+        "Ear": [
+            "ear_kristof_krisztian_1.flac"
+        ]
+    },
+    "Loreta Kiev": {
+        "Location": "",
+        "Url": "",
+        "Eye": [
+            "eye_loreto_kiev_1.png"
+        ],
+        "Ear": []
+    },
+    "Languis": {
+        "Location": "Los Angeles, CA",
+        "Url": "languis.com",
+        "Eye": [],
+        "Ear": [
+            "ear_languis_1.flac",
+            "ear_languis_2.flac"
+        ]
+    },
+    "Lindsey Mortensen": {
+        "Location": "Los Angeles, CA",
+        "Url": "",
+        "Eye": [
+            "eye_lindsey_mortensen_1.png",
+            "eye_linsdey_mortensen_2.png"
+        ],
+        "Ear": []
+    },
+    "Lucky Dragons": {
+        "Location": "Los Angeles, CA",
+        "Url": "luckydragons.org",
+        "Eye": [],
+        "Ear": [
+            "ear_lucky_dragons_1.flac",
+            "ear_lucky_dragons_2.flac",
+            "ear_lucky_dragons_3.flac",
+            "ear_lucky_dragons_4.flac",
+            "ear_lucky_dragons_5.flac"
+        ]
+    },
+    "Marco Paul": {
+        "Location": "Los Angeles, CA",
+        "Url": "dublab.com/marcopaul",
+        "Eye": [],
+        "Ear": [
+            "ear_marco_paul_1.flac"
+        ]
+    },
+    "Mark Tarnashinski": {
+        "Location": "Nummela, Finland",
+        "Url": "www.lonekink.net",
+        "Eye": [
+            "eye_mark_tarnashinski_1.png"
+        ],
+        "Ear": []
+    },
+    "Markus Hofko": {
+        "Location": "New Zealand",
+        "Url": "rainbowmonkey.de",
+        "Eye": [
+            "eye_markus_hofko_1.png",
+            "eye_markus_hofko_2.png",
+            "eye_markus_hofko_3.png"
+        ],
+        "Ear": [
+            "ear_markus_hofko_1.flac"
+        ]
+    },
+    "Maseman": {
+        "Location": "Austin, TX",
+        "Url": "hellomaseman.com",
+        "Eye": [
+            "eye_maseman_1.png",
+            "eye_maseman_3.png",
+            "eye_maseman_3.png",
+            "eye_maseman_4.png"
+        ],
+        "Ear": []
+    },
+    "Matt Nosbusch": {
+        "Location": "Los Angeles, CA",
+        "Url": "ambsch.org",
+        "Eye": [
+            "eye_matt_nosbusch_1.png"
+        ],
+        "Ear": []
+    },
+    "Mel Kadel": {
+        "Location": "Los Angeles, CA",
+        "Url": "melkadel.com",
+        "Eye": [
+            "eye_mel_kadel_1.png"
+        ],
+        "Ear": []
+    },
+    "Melissa Bentley": {
+        "Location": "Studio City, CA",
+        "Url": "storyopolis.com",
+        "Eye": [
+            "eye_melissa_bentley_1.png",
+            "eye_melissa_bentley_2.png"
+        ],
+        "Ear": []
+    },
+    "Michael Coleman": {
+        "Location": "Los Angeles, CA",
+        "Url": "foundation-projects.org",
+        "Eye": [
+            "eye_michael_coleman_1.png",
+            "eye_michael_coleman_2.png"
+        ],
+        "Ear": []
+    },
+    "Michael Stock": {
+        "Location": "Los Angeles, CA",
+        "Url": "parttimepunks.com",
+        "Eye": [
+            "eye_michael_stock_1.png",
+            "eye_michael_stock_2.png",
+            "eye_michael_stock_3.png"
+        ],
+        "Ear": []
+    },
+    "Michelle Romo": {
+        "Location": "Los Angeles, CA",
+        "Url": "yellowtoothpick.com",
+        "Eye": [
+            "eye_michelle_romo_1.png"
+        ],
+        "Ear": []
+    },
+    "Michi Louise Turner": {
+        "Location": "Brooklyn, NY",
+        "Url": "quibbly.net",
+        "Eye": [
+            "eye_michi_louise_turner_1.png",
+            "eye_michi_louise_turner_2.png"
+        ],
+        "Ear": []
+    },
+    "Mitchell Brown": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/magneticbrown",
+        "Eye": [],
+        "Ear": [
+            "ear_mitchell_brown_1.flac",
+            "ear_mitchell_brown_2.flac"
+        ]
+    },
+    "matthewdavid": {
+        "Location": "Los Angeles, CA",
+        "Url": "dublab.com/matthew",
+        "Eye": [],
+        "Ear": [
+            "ear_matthewdavid_1.flac",
+            "ear_matthewdavid_2.flac",
+            "ear_matthewdavid_3.flac"
+        ]
+    },
+    "Mtendere Teebs Mandowa": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/teeeb",
+        "Eye": [
+            "eye_mtendere_teebs_mandowa_1.png"
+        ],
+        "Ear": []
+    },
+    "Monk Turner": {
+        "Location": "Los Angeles, CA",
+        "Url": "monkturner.com",
+        "Eye": [],
+        "Ear": [
+            "ear_monk_turner_1.flac",
+            "ear_monk_turner_2.flac",
+            "ear_monk_turner_3.flac",
+            "ear_monk_turner_4.flac",
+            "ear_monk_turner_5.flac",
+            "ear_monk_turner_6.flac",
+            "ear_monk_turner_7.flac"
+        ]
+    },
+    "Nick Capaci": {
+        "Location": "Santa Ana, CA",
+        "Url": "bluestoneeditions.com",
+        "Eye": [
+            "eye_nick_capaci_1.png"
+        ],
+        "Ear": []
+    },
+    "Nico Ludwig Stock": {
+        "Location": "Los Angeles, CA",
+        "Url": "parttimepunks.com",
+        "Eye": [
+            "eye_nico_ludwig_stock_1.png",
+            "eye_nico_ludwig_stock_2.png"
+        ],
+        "Ear": []
+    },
+    "Occubus Jive": {
+        "Location": "Kailua-Kona, HI",
+        "Url": "abikuville.wordpress.com",
+        "Eye": [],
+        "Ear": [
+            "ear_occubus_jive_1.flac",
+            "ear_occubus_jive_2.flac",
+            "ear_occubus_jive_3.flac"
+        ]
+    },
+    "Odd Nosdam": {
+        "Location": "Berkeley, CA",
+        "Url": "myspace.com/nosdam",
+        "Eye": [],
+        "Ear": [
+            "ear_odd_nosdam_1.flac",
+            "ear_odd_nosdam_2.flac"
+        ]
+    },
+    "Omid": {
+        "Location": "Long Beach, CA",
+        "Url": "omidpage.com",
+        "Eye": [],
+        "Ear": [
+            "ear_omid_1.flac"
+        ]
+    },
+    "Otonomiyaki": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/otonomiyaki",
+        "Eye": [],
+        "Ear": [
+            "ear_otonomiyaki_1.flac"
+        ]
+    },
+    "Paul Diddy": {
+        "Location": "Los Angeles, CA",
+        "Url": "pauldiddy.com",
+        "Eye": [
+            "eye_paul_diddy_1.png",
+            "eye_paul_diddy_2.png"
+        ],
+        "Ear": [
+            "ear_paul_diddy_1.flac",
+            "ear_paul_diddy_2.flac"
+        ]
+    },
+    "Paul Rosales": {
+        "Location": "Orange, CA",
+        "Url": "",
+        "Eye": [],
+        "Ear": [
+            "ear_paul_rosales_1.flac"
+        ]
+    },
+    "Phunkie Panda": {
+        "Location": "Simi Valley, CA",
+        "Url": "myspace.com/phunkiep",
+        "Eye": [],
+        "Ear": [
+            "ear_phunkie_panda_1.flac",
+            "ear_phunkie_panda_2.flac"
+        ]
+    },
+    "Piper Kaplan": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/surfsideslashers",
+        "Eye": [
+            "eye_piper_kaplan_1.png"
+        ],
+        "Ear": []
+    },
+    "Quiroga": {
+        "Location": "Napoli, Italy",
+        "Url": "myspace.com/quirogasound",
+        "Eye": [],
+        "Ear": [
+            "ear_quiroga_1.flac",
+            "ear_quiroga_2.flac",
+            "ear_quiroga_3.flac"
+        ]
+    },
+    "Ras G": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/rasg",
+        "Eye": [],
+        "Ear": [
+            "ear_ras_g_1.flac",
+            "ear_ras_g_2.flac",
+            "ear_ras_g_3.flac",
+            "ear_ras_g_4.flac"
+        ]
+    },
+    "Rick Potts": {
+        "Location": "Los Angeles, CA",
+        "Url": "answers.com/topic/rick-potts",
+        "Eye": [],
+        "Ear": [
+            "ear_rick_potts_1.flac",
+            "ear_rick_potts_2.flac"
+        ]
+    },
+    "Ricky Dollars": {
+        "Location": "Fannypack, MD",
+        "Url": "myspace.com/rickydollars",
+        "Eye": [],
+        "Ear": [
+            "ear_ricky_dollars_1.flac"
+        ]
+    },
+    "Ryan Thomas": {
+        "Location": "Simi Valley, CA",
+        "Url": "myspace.com/txatniprec",
+        "Eye": [],
+        "Ear": [
+            "ear_ryan_thomas_1.flac",
+            "ear_ryan_thomas_2.flac"
+        ]
+    },
+    "Rory Wilson": {
+        "Location": "Los Angeles, CA",
+        "Url": "nonverbal-communication.com",
+        "Eye": [
+            "eye_rory_wilson_1.png",
+            "eye_rory_wilson_2.png"
+        ],
+        "Ear": []
+    },
+    "Sandy Hubshman": {
+        "Location": "Los Angeles, CA",
+        "Url": "sandyhubshman.com",
+        "Eye": [
+            "eye_sandy_hubshman_1.png",
+            "eye_sandy_hubshman_2.png",
+            "eye_sandy_hubshman_3.png"
+        ],
+        "Ear": []
+    },
+    "Sarah Blahut": {
+        "Location": "Los Angeles, CA",
+        "Url": "",
+        "Eye": [
+            "eye_sarah_blahut_1.png"
+        ],
+        "Ear": []
+    },
+    "Sarajo Frieden": {
+        "Location": "Los Angeles, CA",
+        "Url": "sarajofrieden.com",
+        "Eye": [
+            "eye_sarajo_frieden_1.png"
+        ],
+        "Ear": []
+    },
+    "Saav1": {
+        "Location": "Chino, CA",
+        "Url": "",
+        "Eye": [
+            "eye_saav1_1.png",
+            "eye_saav1_2.png"
+        ],
+        "Ear": []
+    },
+    "Scott Saltsman": {
+        "Location": "Los Angeles, CA",
+        "Url": "sc8.net",
+        "Eye": [
+            "eye_scott_saltsman_1.png"
+        ],
+        "Ear": []
+    },
+    "Skyrocket Studio": {
+        "Location": "Silverlake, CA",
+        "Url": "skyrocket-studio.com",
+        "Eye": [
+            "eye_skyrocket_1.png"
+        ],
+        "Ear": []
+    },
+    "Steve Saiz": {
+        "Location": "Miami, FL",
+        "Url": "flickr.com/stevesaiz",
+        "Eye": [
+            "eye_steve_saiz_1.png"
+        ],
+        "Ear": []
+    },
+    "Sumi Ink Club": {
+        "Location": "Los Angeles, CA",
+        "Url": "sumiinkclub.com",
+        "Eye": [
+            "eye_sumi_ink_club_1.png",
+            "eye_sumi_ink_club_2.png"
+        ],
+        "Ear": []
+    },
+    "Superhumanoids": {
+        "Location": "Los Angeles, CA",
+        "Url": "superhumanoids.com",
+        "Eye": [],
+        "Ear": [
+            "ear_superhumanoids_1.flac"
+        ]
+    },
+    "Suzanne Kraft": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/suzannekraft",
+        "Eye": [],
+        "Ear": [
+            "ear_suzanne_kraft_1.flac",
+            "ear_suzanne_kraft_2.flac",
+            "ear_suzanne_kraft_3.flac",
+            "ear_suzanne_kraft_4.flac",
+            "ear_suzanne_kraft_5.flac"
+        ]
+    },
+    "Take": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/takeisme",
+        "Eye": [
+            "eye_take_1.png"
+        ],
+        "Ear": []
+    },
+    "Teebs": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/teeeb",
+        "Eye": [],
+        "Ear": [
+            "ear_teebs_1.flac",
+            "ear_teebs_2.flac"
+        ]
+    },
+    "Theo Jemison": {
+        "Location": "Los Angeles, CA",
+        "Url": "theojemison.com",
+        "Eye": [
+            "eye_theo_jamison_1.png"
+        ],
+        "Ear": []
+    },
+    "Travis Millard": {
+        "Location": "Los Angeles, CA",
+        "Url": "fudgefactorycomics.com",
+        "Eye": [
+            "eye_travis_millard_1.png"
+        ],
+        "Ear": []
+    },
+    "Tropic of Cancer": {
+        "Location": "Minneapolis, MN",
+        "Url": "myspace.com/tropicofcancermusic",
+        "Eye": [],
+        "Ear": [
+            "ear_tropic_of_cancer_1.flac",
+            "ear_tropic_of_cancer_2.flac"
+        ]
+    },
+    "Unrecognizable Now": {
+        "Location": "Portland, OR",
+        "Url": "unrecnow.com",
+        "Eye": [],
+        "Ear": [
+            "ear_unrecognizable_now_1.flac",
+            "ear_unrecognizable_now_2.flac",
+            "ear_unrecognizable_now_3.flac"
+        ]
+    },
+    "Vosotros": {
+        "Location": "Los Angeles, CA",
+        "Url": "vosotros.com",
+        "Eye": [],
+        "Ear": [
+            "ear_vosotros_1.flac"
+        ]
+    },
+    "Adam Forkner": {
+        "Location": "Portland, Oregon",
+        "Url": "yarnlazer.com",
+        "Eye": [
+            "eye_white_rainbow_1.png"
+        ],
+        "Ear": []
+    },
+    "Yuk.": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/myhollowdrum",
+        "Eye": [],
+        "Ear": [
+            "ear_yuk_1.flac",
+            "ear_yuk_2.flac"
+        ]
+    },
+    "Zach Gibson": {
+        "Location": "Los Angeles, CA",
+        "Url": "zachgibson.com",
+        "Eye": [
+            "eye_zach_gibson_1.png"
+        ],
+        "Ear": []
+    },
+    "Zane Reynolds": {
+        "Location": "Los Angeles, CA",
+        "Url": "myspace.com/sfvacid",
+        "Eye": [
+            "eye_zane_reynolds_1.png",
+            "eye_zane_reynolds_2.png"
+        ],
+        "Ear": []
+    }
+}
